@@ -4,7 +4,7 @@
 
 #
 
-[CargoWise One Simulator]() was developed to assist users with navigating and simulating tasks within the CargoWise One platform, a comprehensive software used in logistics, freight forwarding, and supply chain management. The GPT provides users with detailed, step-by-step instructions on how to perform various functions within the software, such as managing shipments, handling customs documentation, and utilizing advanced features like the Custom Query Tool (CQT), Script Manager, EDI (Electronic Data Interchange), and Messaging.
+[CargoWise One Simulator](https://chatgpt.com/g/g-a2kwsu4NF-cargowise-one-simulator) was developed to assist users with navigating and simulating tasks within the CargoWise One platform, a comprehensive software used in logistics, freight forwarding, and supply chain management. The GPT provides users with detailed, step-by-step instructions on how to perform various functions within the software, such as managing shipments, handling customs documentation, and utilizing advanced features like the Custom Query Tool (CQT), Script Manager, EDI (Electronic Data Interchange), and Messaging.
 
 By simulating the CargoWise One environment, this GPT allows users to interact as though they were using the actual software, offering practical guidance tailored to specific queries. Whether a user is looking to create custom reports, automate workflows, or troubleshoot common issues, the simulator is designed to deliver clear and concise support without overwhelming the user with overly technical language. It aims to make complex processes more accessible, ensuring that even those new to the platform can navigate it effectively.
 
