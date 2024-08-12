@@ -15,7 +15,7 @@ In addition to task-specific guidance, the CargoWise One Simulator is structured
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
-[Ship Fleet and Asset Simulator]()
+[Ship Fleet and Asset Simulator](https://github.com/sourceduty/Ship_Fleet-Asset_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
